@@ -5,7 +5,7 @@ import Projects from "./components/Projects";
 import HowToHelp from "./components/HowToHelp";
 import Contact from "./components/Contact";
 import BackToTopButton from "./components/BackToTopButton";
-import "./index.css";
+import "./style/index.scss";
 
 function App() {
   return (
